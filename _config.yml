@@ -1,9 +1,9 @@
 # Basic
 title: Vno Jekyll
 subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+welcome_message: <a href="https://github.com/Hyu0529/Hyu0529.github.io" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://wouldyoubreakit.com/">@Hyu</a>
 
 url: "http://vno.onevcat.com"
 
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: Hyu
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: Hyu
+    github: Hyu0529
+    twitter:
+    gplus: 
+    mail: 1576960522@qq.com
 
 # Google Analytics
 ga:

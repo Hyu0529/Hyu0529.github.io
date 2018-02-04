@@ -90,7 +90,14 @@ $ git push -u origin master #提交文件
 ```
 
 #### 其他问题
+
 使用'Ruby'编译scss的时候出错，解决方法：
 在ruby的安装目录下进入`\ruby\Ruby21\lib\ruby\gems\2.1.0\gems\sass-3.4.15\lib\sass`，在`module Sass `后添加一行`Encoding.default_external = Encoding.find('utf-8')`
 
+使用`Cmder`时出现警告：`Missing git support, install posh-git with 'Install-Module posh-git' and restart cmder.`,其实没有什么影响，迫于强迫症还是弄了一下.
 
+安装`Chocolatey`：
+```bash
+$ powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))"
+```
+安装软件命令:`choco install softwareName`
